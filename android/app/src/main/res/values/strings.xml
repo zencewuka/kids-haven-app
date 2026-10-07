@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Kids Haven Hustling Academy</string>
+    <string name="title_activity_main">Kids Haven Hustling Academy</string>
+    <string name="package_name">org.kidshaven.hustlingacademy</string>
+    <string name="custom_url_scheme">org.kidshaven.hustlingacademy</string>
+</resources>
